@@ -4,7 +4,7 @@
 This project presents an interactive sales dashboard developed using Microsoft Power BI. It helps analyze sales performance across time periods, products, product categories, and countries.
 
 ## Dashboard Preview
-![Sales Dashboard 2026]([screenshots/dashboard_preview.png](https://github.com/DeepakSahooPro/Sales-Dashboard-2026/blob/main/dashboard_preview.png))
+![Sales Dashboard 2026](dashboard_preview.png)
 
 ## Key Performance Indicators
 - **Total Orders:** 100
